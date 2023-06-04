@@ -6,5 +6,6 @@ export default defineNuxtConfig({
     'nuxt-icon',
     'nuxt-swiper',
     'dayjs-nuxt'
-  ]
+  ],
+  target: 'static'
 })
